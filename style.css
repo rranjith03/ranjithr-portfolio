@@ -469,7 +469,6 @@ button:hover {
 /* skill */
 .skills-section {
   padding: 80px 20px;
-  background: linear-gradient(145deg, #0a0a23, #141433);
   color: #fff;
   text-align: center;
 }
@@ -981,6 +980,7 @@ button:hover {
     gap: 0.5rem;
   }
 }
+
 
 
 
