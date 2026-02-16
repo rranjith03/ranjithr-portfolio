@@ -522,7 +522,6 @@ button:hover {
 /* certification*/
 .certifications-section {
   padding: 80px 20px;
-  background: linear-gradient(145deg, #0a0a23, #141433);
   text-align: center;
   color: #fff;
 }
@@ -624,7 +623,6 @@ button:hover {
 /* Project section */
 .projects-section {
   padding: 80px 20px;
-  background: linear-gradient(145deg, #0a0a23, #141433);
   text-align: center;
   color: white;
 }
@@ -980,6 +978,7 @@ button:hover {
     gap: 0.5rem;
   }
 }
+
 
 
 
