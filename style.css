@@ -408,7 +408,7 @@ button:hover {
 }
 
 .about-image {
-
+  background: linear-gradient(to bottom right, #4b1d95, #5f27cd);
   padding: 20px;
   border-radius: 25px;
   box-shadow: 0 0 60px rgba(165, 110, 255, 0.35);
@@ -977,6 +977,7 @@ button:hover {
     gap: 0.5rem;
   }
 }
+
 
 
 
