@@ -172,7 +172,6 @@ body {
   gap: 1rem;
 }
 .edu-item {
-  background: #111827;
   padding: 1rem;
   border-left: 4px solid #8b5cf6;
 }
@@ -981,4 +980,5 @@ button:hover {
     gap: 0.5rem;
   }
 }
+
 
